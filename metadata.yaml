@@ -1,11 +1,16 @@
 _repo: Berels-Berta-Eine-Bauerngeschichte-aus-dem-Luxemburgischen_59534
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59534-h/images/cover.jpg
 creator:
   author:
     agent_name: Zanen, Jean-Pierre
     gutenberg_agent_id: '50498'
     url: http://www.gutenberg.org/2009/agents/50498
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59534#Berels-Berta-Eine-Bauerngeschichte-aus-dem-Luxemburgischen
 gutenberg_issued: '2019-05-18'
 gutenberg_type: Text
 identifiers:
